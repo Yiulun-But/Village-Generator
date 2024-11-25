@@ -1,0 +1,219 @@
+[13:58:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:58:51] [ServerMain/INFO]: Loaded 7 recipes
+[13:58:52] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[13:58:52] [Server thread/INFO]: Loading properties
+[13:58:52] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[13:58:52] [Server thread/INFO]: Debug logging is disabled
+[13:58:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:58:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:58:52] [Server thread/INFO]: Default game type: CREATIVE
+[13:58:52] [Server thread/INFO]: Generating keypair
+[13:58:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:58:52] [Server thread/INFO]: Using default channel type
+[13:58:53] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:58:54] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[13:58:54] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[13:58:54] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[13:58:54] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[13:58:54] [Server thread/INFO]: Preparing level "world"
+[13:58:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:58:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:58:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:58:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:58:54] [Server thread/INFO]: View Distance: 10
+[13:58:54] [Server thread/INFO]: Simulation Distance: 10
+[13:58:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:58:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:58:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:58:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:58:54] [Server thread/INFO]: Mob Spawn Range: 6
+[13:58:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[13:58:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[13:58:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:58:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[13:58:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:58:54] [Server thread/INFO]: Max TNT Explosions: 100
+[13:58:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:58:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:58:55] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:58:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:58:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:58:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:58:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[13:58:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:58:57] [Worker-Main-1/INFO]: Preparing spawn area: 67%
+[13:58:57] [Server thread/INFO]: Time elapsed: 3186 ms
+[13:58:57] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[13:58:57] [Server thread/INFO]: [SetSpawn] Enabled!
+[13:58:57] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[13:58:57] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[13:58:57] [Server thread/INFO]: [ELCI] ThreadListener Started
+[13:58:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:58:57] [Server thread/INFO]: Done (3.531s)! For help, type "help"
+[13:59:22] [Thread-10/INFO]: [ELCI] Starting input thread
+[13:59:22] [Thread-11/INFO]: [ELCI] Starting output thread!
+[13:59:22] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[13:59:22] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvUMVpukc2H/1Y/QlmUsD
+[13:59:22] [Thread-9/WARN]: EZM5cvuyOFVoQJIY/a/6NY5MXeZm9WDHsqCOrXJXKIcZZdH296Jikpkc8Z/iA0Rj
+[13:59:22] [Thread-9/WARN]: QcKYPlxqSSZFp65PoMH0BoAZqsyghYGEHaMyz66kM+Vf4wUmwl2ekbrikHkm2LbB
+[13:59:22] [Thread-9/WARN]: EvkpRNmid6tZIXxznoyic5mdBj5n6IBO25IA9F4cigvb+1FRhmqxyiB72AMMpsXY
+[13:59:22] [Thread-9/WARN]: zdi00nzBFyOVMX2TlSNtePeO0KuAb9LBZ9bUExdAo22GLsBSR8PT8ZwasE8bQuwx
+[13:59:22] [Thread-9/WARN]: 4AnKwuDOe1zvYV7lq99e/FeD2iGPowXUAUPyoLZuxvZEJBErWymON+qNPE04gRGD
+[13:59:22] [Thread-9/WARN]: RwIDAQAB
+[13:59:22] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[13:59:23] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[13:59:23] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk4dGrX0czh6pqVM0xoQ6
+[13:59:23] [Thread-9/WARN]: TPoLBh1YXIRrJNbDIsSGx0g9bVps2FD1iri0J80D3VKPb4/A6KWabaJK7hiiwc6T
+[13:59:23] [Thread-9/WARN]: sMETPAoUbj0ZXJcJpHhHTE4l0HSX+E2Sfy78YkGQI5xnJ8YQ7GgEEQD9DYDUr3TY
+[13:59:23] [Thread-9/WARN]: t2By5TMgB37Sfy65BkS/qF6PPT5Navdsm5XrflQaocxor6iN5X7zTUM/m0A5QgZS
+[13:59:23] [Thread-9/WARN]: O5TlanS2sQgUX8fRaPi1m9ZuEHlBmTSksvfSvhhOlAiUxW3FRLUOSlAd+zg79LGe
+[13:59:23] [Thread-9/WARN]: uYPfc0oDy59ogeSkSU2r7pRsaBUFeQoq+oik2v/eGiR5o5ztYuk6S2VKFD50X2Sd
+[13:59:23] [Thread-9/WARN]: bQIDAQAB
+[13:59:23] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[13:59:23] [Thread-9/WARN]: 
+[13:59:27] [Thread-9/INFO]: [ELCI] GCM info received!
+[13:59:27] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53572.
+[13:59:27] [Server thread/INFO]: Hello World[m
+[13:59:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53572.
+[14:00:13] [Thread-12/INFO]: [ELCI] Starting input thread
+[14:00:13] [Thread-13/INFO]: [ELCI] Starting output thread!
+[14:00:13] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:00:13] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAruRQmFnz/ESwgsSQ7ozY
+[14:00:13] [Thread-9/WARN]: Wr1ptvTFOtK+H6AmAJZqD4H75gxFTrOdFPh46EDWAqm65brkvKq7+PUTv/oNGzdl
+[14:00:13] [Thread-9/WARN]: axmX4xXzyGnTrGVM+FW2Ii6aDNgj2InuIXtrJeg4FXxIrv8/VEjxPgUnHmJVL8ly
+[14:00:13] [Thread-9/WARN]: mevH0Vd2PdS3WV3k+1mcSF5xsYXyj3w7ljJhfXPLEDuav2Dy94S1nqUhogm7Ae3E
+[14:00:13] [Thread-9/WARN]: 1sygqBkuctJUc75EQDLwY+5eNQbFpmuwNM4aH5p27lK2+/mBRLPDIF9kcNUbC7DC
+[14:00:13] [Thread-9/WARN]: py1z+QXR7/HuAtvXCjJXF6PiGQtlmbkvHI2+sHlCQJdNjPi4lNwdez9e7QvsgQsb
+[14:00:13] [Thread-9/WARN]: ZwIDAQAB
+[14:00:13] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:00:14] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:00:14] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjY464QCvfcN1gaipmxEo
+[14:00:14] [Thread-9/WARN]: Pq+4vJ2oXSgvNO/+W4rc7CeOlZ7XBswycE9matLUmxqjGatG0nLWVIQZEZ49VZ4/
+[14:00:14] [Thread-9/WARN]: d0FKlMmudvACtMaciesIK1uCUPV9ccmlmYwrApX8EWQLyXjFaVhWzL0L3EJWWgZn
+[14:00:14] [Thread-9/WARN]: 3I+4FCho0UGurWaYdYTuQONLLtpns9ofry3CoIPpWY7SU52/uOdOFpdVbut8rbHm
+[14:00:14] [Thread-9/WARN]: JDx8D1cTrOqXKMG+MnKJzj4YYgyFdGnUbzY0PqrZ01I3sxAjEuf4AqFgXB1KCygX
+[14:00:14] [Thread-9/WARN]: LDa77iugNUYWN0LA0ZoHAwqOrBhH3TZW8+FY4ReO05eaBbXCB2ai+Fv5x87qzq5B
+[14:00:14] [Thread-9/WARN]: RQIDAQAB
+[14:00:14] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:00:14] [Thread-9/WARN]: 
+[14:00:18] [Thread-9/INFO]: [ELCI] GCM info received!
+[14:00:18] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53585.
+[14:00:18] [Server thread/INFO]: Hello World[m
+[14:00:18] [Server thread/WARN]: [ELCI] Error occurred handling command
+[14:00:18] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[14:00:18] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleCommand(RemoteSession.java:222)
+[14:00:18] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:187)
+[14:00:18] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:164)
+[14:00:18] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[14:00:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[14:00:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[14:00:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[14:00:18] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[14:00:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[14:00:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[14:00:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[14:00:18] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1623)
+[14:00:18] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53585.
+[14:01:05] [Thread-15/INFO]: [ELCI] Starting output thread!
+[14:01:05] [Thread-14/INFO]: [ELCI] Starting input thread
+[14:01:05] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:01:05] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1wdtKX2WMjnC1GdmbTrC
+[14:01:05] [Thread-9/WARN]: HRpLsJ4pfMsgIGgaRsD0vZlR/ZI+geGPk8IUoXb/hvOvZAz00etbod5tawF/UACh
+[14:01:05] [Thread-9/WARN]: EW2rdryPar+HdRelLKUwGkNHpGH2vQj0DvKfQq+ls/Uojmc4vLBukYsH7PHmkHLB
+[14:01:05] [Thread-9/WARN]: btt1j0LB3Rc30X27+w0NxP/MwFaC+LVLmacySNFmFR33P8VoeOI7UaUOqFPJUCis
+[14:01:05] [Thread-9/WARN]: crIG+zRJYbyYo/NQSwNUvuOWyIHL32wwSoUBTUV877FFH9sXcSFNG+kVgZXx3lgW
+[14:01:05] [Thread-9/WARN]: L0jSzx9wP4Lk4VspsFthF4NE7rT6fI1ayZaM2rP4k+GoZx8FBR2mo/o7krVGvNFN
+[14:01:05] [Thread-9/WARN]: DwIDAQAB
+[14:01:05] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:01:06] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:01:06] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqDLwTt9xnSfecAN1ySwa
+[14:01:06] [Thread-9/WARN]: kUzy6uZAiW1ixAoKcGms6l1uWHfwD7E+Mis7IJGkNNsAf7vTep1lfUag7js1azVz
+[14:01:06] [Thread-9/WARN]: sC1WxhZpOxp6QEykvet0fDzsUKCOLqs+O0WxNFsbEuCdPjhBVcUn+/ChL6whxCZE
+[14:01:06] [Thread-9/WARN]: egb5YH0NX41RvGT40KMPQjbUyMfGKb91rd7JeQtdrMf+vgvCiGJXQ5MfUpwMYYjB
+[14:01:06] [Thread-9/WARN]: x16kPaDhhn6uvPll2FtDuklrncP9vJxTXwmO0011HtPxPn7mnt3Vham5lJZxhEu8
+[14:01:06] [Thread-9/WARN]: zLX31gchamqA5HMDAOgbdK6TzvbANXevstc2KOMicRf9PtluerT5k1HXdcFrbuZx
+[14:01:06] [Thread-9/WARN]: EQIDAQAB
+[14:01:06] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:01:06] [Thread-9/WARN]: 
+[14:01:10] [Thread-9/INFO]: [ELCI] GCM info received!
+[14:01:10] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53597.
+[14:01:10] [Server thread/INFO]: Hello World[m
+[14:01:10] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53597.
+[14:01:25] [Thread-17/INFO]: [ELCI] Starting output thread!
+[14:01:25] [Thread-16/INFO]: [ELCI] Starting input thread
+[14:01:25] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:01:25] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAorVh+4iQnLRmiokwy2Ov
+[14:01:25] [Thread-9/WARN]: aZihSj1ZTQNSMp4bI87zWQMafdIoDWI95LXQdi8dbUs/sPzTgzCV3KjMxfCOoEbF
+[14:01:25] [Thread-9/WARN]: qHI0pjNyXMthGK/lvw8gck9bMjXPGwUjXo567Mvlr29jxwthAxMeov4SmiuwmLsC
+[14:01:25] [Thread-9/WARN]: zYcy5mtO0q4ml8AOfdKHqscIJ87nswAKCeQxUVXwZrcO+MHLjMqXMPPEW7VqEGIA
+[14:01:25] [Thread-9/WARN]: lx88Iwh68DjyAf+Sztsaq80xhk0G0Vdn7zXq7oipZj3bD0yGBy8MHsMUP9wrUzIn
+[14:01:25] [Thread-9/WARN]: ylMmht55e/tgWXfu7vaMiSNFZ967V/WoPTMesNhwv7A3PcNYmGrKCPksXgAcbJ8g
+[14:01:25] [Thread-9/WARN]: hQIDAQAB
+[14:01:25] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:01:26] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:01:26] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz/OWeWLsO8MhEnp1rTA6
+[14:01:26] [Thread-9/WARN]: crY7xxsBpjvHC8Ohk16kkbA1ALYCvG7W7a/AnMX7FLZfDZ8g8B/s2dDDL+c/GC+D
+[14:01:26] [Thread-9/WARN]: Z8iSbti5SMpkR5LuVDw7v3U+LwKxdxcBwcbPUcshPFXCzcNs7R99kPnXi/ahwpGN
+[14:01:26] [Thread-9/WARN]: K8wopYLNhwVP6oY1LQRm7AIaEqPdao0DC/2LG7YGrX9DXiaaFa0slkIMHXdGTO7G
+[14:01:26] [Thread-9/WARN]: wD//zgXf297QpwJaoyfYzibT2VWUFmUt3op8fS+gFu8cKKKKxvt/HNTpPcXUpCtX
+[14:01:26] [Thread-9/WARN]: r5LOM3kj6LZJhK29FUWixU5g6DEBIz3/93UHEPYXwtTYMf1w0zl2adqQi1P8Bvas
+[14:01:26] [Thread-9/WARN]: nQIDAQAB
+[14:01:26] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:01:26] [Thread-9/WARN]: 
+[14:01:30] [Thread-9/INFO]: [ELCI] GCM info received!
+[14:01:30] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53606.
+[14:01:30] [Server thread/INFO]: Hello World[m
+[14:01:30] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53606.
+[14:01:42] [Thread-19/INFO]: [ELCI] Starting output thread!
+[14:01:42] [Thread-18/INFO]: [ELCI] Starting input thread
+[14:01:42] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:01:42] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy0OTygUo0TH3NYNbtM8W
+[14:01:42] [Thread-9/WARN]: U76vrl9T6nR/MkAGuLp1BKi4rVt3mXJJHg4HRp1p2d+BMGcjwvkTkgPyBRXwYF9C
+[14:01:42] [Thread-9/WARN]: i6TxjyfVxv5P5RGF+q8SvrzTjC1doEv/SjtV/8JZkGvugZ395xlcpeeyB27xqoVB
+[14:01:42] [Thread-9/WARN]: A4ihK68PHBG/6ahXVqzbR8WZYcYiQOt5YJW3aQn2UCamgxLVOcy+qgkPtcUrVA3W
+[14:01:42] [Thread-9/WARN]: kMk5cd0KJn7cxrr9KRrFyHtVJp2b/Cgu8PWvXX3V4ci/xtl7/h7hNkt7Gf8DtdX9
+[14:01:42] [Thread-9/WARN]: p2c16zZJJ8xrSriebu/gkG78LDgeUu4zoitOj4woCHmQMgUR3b4CDeeWXdzw1xNw
+[14:01:42] [Thread-9/WARN]: GQIDAQAB
+[14:01:42] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:01:43] [Thread-9/WARN]: -----BEGIN PUBLIC KEY-----
+[14:01:43] [Thread-9/WARN]: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmZwqmYJLZMRASwpAPlJx
+[14:01:43] [Thread-9/WARN]: gElgmcPjGUHv6gWUF2Z+Ubn+keQqpcNm6fZUuJpoUM1atUnUqXTbG/MMF/MEy5Kp
+[14:01:43] [Thread-9/WARN]: KCeI51ZFsZptcgbeK6TQwwd1qNJU3CHJyRFVyj5J9KETH+W9sXxdCqARvtZsmq5w
+[14:01:43] [Thread-9/WARN]: TdjvtjWyagvvvKQv4qsHkqRiw0WiTSJpiNfG0t1StEjAjmclwL/ZLZdy8F02havp
+[14:01:43] [Thread-9/WARN]: bFwOAVI5EJIuV/1nCwVESCMGVdL5rjDXs/RVvrx1CsKyfy8yhtNi47x0iXegaLuV
+[14:01:43] [Thread-9/WARN]: bSRch9lVc3nppXX83aTCXeQhl8kwj9Haj2ruaI4PiBqHZ9JXsVjiwD1H6yTAnPHM
+[14:01:43] [Thread-9/WARN]: lQIDAQAB
+[14:01:43] [Thread-9/WARN]: -----END PUBLIC KEY-----
+[14:01:43] [Thread-9/WARN]: 
+[14:01:47] [Thread-9/INFO]: [ELCI] GCM info received!
+[14:01:47] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53616.
+[14:01:47] [Server thread/INFO]: Hello World[m
+[14:01:47] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53616.
+[14:13:48] [Server thread/INFO]: Stopping server
+[14:13:48] [Server thread/INFO]: [ELCI] Disabling ELCI v1.12.1
+[14:13:48] [Server thread/INFO]: [ELCI] Raspberry Juice Stopped
+[14:13:48] [Server thread/INFO]: [SetSpawn] Disabling SetSpawn v3.4
+[14:13:48] [Server thread/INFO]: [SetSpawn] Disabled!
+[14:13:48] [Server thread/INFO]: Saving players
+[14:13:48] [Server thread/INFO]: Saving worlds
+[14:13:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:13:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:13:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
